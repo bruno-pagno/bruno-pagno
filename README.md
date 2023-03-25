@@ -1,5 +1,6 @@
-# About me
-- Backend and Infrastructure focused software engineer (Node.js, Python, Golang, Docker, Kubernetes, AWS and others)
-- AWS Certified Cloud Practitioner
-- Former information systems student at University of São Paulo (2019-2022) 🇧🇷
-- Contact me through [Linkedin](https://www.linkedin.com/in/bruno-pagno) or [email](brunodesousapagno@gmail.com).
+- 🎓 Former Information systems student at University of São Paulo (2019-2022) 🇧🇷
+- 🔧 **Full stack software engineer**, I have a preference for **devOps** and **backend**
+- ⚙️ My main work technologies (but not limited to) are: **Node.js**, **React.js**, **Python**, **Linux**, **AWS** and **Docker**
+- 🌱 Learning **Golang** and **Kubernetes**
+- 🏅 AWS Certified Cloud Practitioner
+- ✉️ Contact me through [Linkedin](https://www.linkedin.com/in/bruno-pagno) or [email](brunodesousapagno@gmail.com).
