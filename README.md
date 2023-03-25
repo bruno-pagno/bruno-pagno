@@ -1,5 +1,5 @@
 - 🎓 Former Information systems student at University of São Paulo (2019-2022) 🇧🇷
-- 🔧 **Full stack software engineer**, I have a preference for **devOps** and **backend**
+- 🔧 **Full stack software engineer** focused on **devOps** and **backend**
 - ⚙️ My main work technologies (but not limited to) are: **Node.js**, **React.js**, **Python**, **Linux**, **AWS** and **Docker**
 - 🌱 Learning **Golang** and **Kubernetes**
 - 🏅 AWS Certified Cloud Practitioner
