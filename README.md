@@ -1,5 +1,4 @@
+- 👨‍💻 **Software engineer** at **Boston Consulting Group (BCG)**
 - 🎓 Bachelors in Information systems by University of São Paulo (2019-2022) 🇧🇷
-- 🔧 **Software engineer** focused on **devOps** and **backend**
-- ⚙️ My main technologies (but not limited to) are: **Python**, **Node.js**, **Golang**, **Kubernetes**, **Docker**, **Linux**
 - 🏅 AWS Certified Cloud Practitioner
 - ✉️ Contact me through [Linkedin](https://www.linkedin.com/in/bruno-pagno) or [email](brunodesousapagno@gmail.com)
