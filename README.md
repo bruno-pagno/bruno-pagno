@@ -1,1 +1,1 @@
-Software Engineer at Boston Consulting Group (BCP)
+Software Engineer at **Boston Consulting Group (BCG)**
