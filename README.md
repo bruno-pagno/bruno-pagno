@@ -1,4 +1,1 @@
-- 👨‍💻 **Software engineer** at **Boston Consulting Group (BCG)**
-- 🎓 Bachelors in Information systems by University of São Paulo
-- 🏅 AWS Certified Cloud Practitioner
-- ✉️ Contact me through [Linkedin](https://www.linkedin.com/in/bruno-pagno) or [email](brunodesousapagno@gmail.com)
+Software Engineer at Boston Consulting Group (BCP)
